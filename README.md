@@ -5,11 +5,11 @@ The Raspberry Pi Local File Share Module is a simple and efficient solution for 
 
 ## Installation and Setup
 
-
+```bash
 pip install -r requirements.txt
 chmod +x run_file_share.sh
 ./run_file_share.sh
-
+```
 
 ## How to use it
 1. Open a web browser and navigate to the IP address of your Raspberry Pi.
